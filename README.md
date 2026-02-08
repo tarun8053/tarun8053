@@ -2,17 +2,14 @@
 
 🚀 MERN Stack Developer | Passionate about building scalable web applications | Lifelong Learner
 
-💫 About Me
+###💫 About Me
 
 I am a B.Tech Computer Science graduate with strong expertise in the MERN Stack.
 I enjoy transforming ideas into real-world applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
 🌱 Currently sharpening my skills in Full Stack Development & DSA
-
 💡 Interested in building high-performance and user-friendly applications
-
 🤝 Open to collaborating on impactful development projects
-
 🎯 Targeting opportunities in service-based companies to kickstart my professional journey
 
 ## 🌐 Socials:
