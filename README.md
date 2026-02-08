@@ -1,21 +1,19 @@
-👋 Hi, I’m Tarun Thakur
+👋 Hi, I'm Tarun Thakur
 
-🚀 B.Tech (CSE) | Full-Stack MERN Developer
-I build scalable, secure, and responsive web applications using the MERN stack.
-Passionate about clean code, modern UI/UX, and real-world problem solving.
+🚀 MERN Stack Developer | Passionate about building scalable web applications | Lifelong Learner
 
-🎓 Education
+💫 About Me
 
-United College of Engineering & Research
-B.Tech – Computer Science & Engineering
-📅 2022 – 2026
+I am a B.Tech Computer Science graduate with strong expertise in the MERN Stack.
+I enjoy transforming ideas into real-world applications and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-🧠 Training & Experience
+🌱 Currently sharpening my skills in Full Stack Development & DSA
 
-Full-Stack MERN Development – AccioJob
-Hands-on experience with MongoDB, Express.js, React, Node.js
-Built real-world full-stack projects
-Practiced DSA basics, Git workflows, and industry-level coding standards
+💡 Interested in building high-performance and user-friendly applications
+
+🤝 Open to collaborating on impactful development projects
+
+🎯 Targeting opportunities in service-based companies to kickstart my professional journey
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurtarun1012@gmail.com) 
