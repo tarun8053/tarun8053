@@ -20,32 +20,10 @@ Passionate about engineering high-quality applications, solving complex problems
 - Clean Code Practices  
 
 ---
-
 ## ⚙️ Tech Stack
 
-### 🚀 Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb&perline=5" />
-</p>
-
-### 🎨 Frontend Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux,materialui&perline=6" />
-</p>
-
-### 🧠 Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt&perline=6" />
-</p>
-
-### ☁️ Deployment & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&perline=6" />
-</p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,tailwind,bootstrap,redux,materialui,firebase,vercel,netlify,git,github,postman,vscode&perline=9" />
 </p>
 
 ---
